@@ -1,0 +1,11 @@
+id,category,value,date,notes
+1,research,85,2024-01-15,Connected to research-methods
+2,project,92,2024-01-15,Part of project-ideas development
+3,meeting,78,2024-01-15,Referenced in meeting-notes
+4,daily,88,2024-01-15,Linked to daily tracking
+5,notes,91,2024-01-15,General notes integration
+6,analysis,94,2024-01-15,Used in analysis notebook
+7,config,82,2024-01-15,System configuration data
+8,demo,96,2024-01-15,PKM extension demonstration
+9,testing,89,2024-01-15,Feature testing results
+10,integration,87,2024-01-15,File type integration test
