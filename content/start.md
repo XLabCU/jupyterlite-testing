@@ -16,6 +16,10 @@ Press **Alt+M** to toggle between edit and preview modes. The mode should persis
 ### 3. Backlinks Panel
 Press **Alt+B** to open the backlinks panel. It should show which notes link to this file.
 
+**Currently, it is only showing backlinks for materials at the same level**. 
+
+Incidentally, also shows backlinks in markdown blocks in ipynb files (at the same level).
+
 ### 4. Search
 Press **Alt+F** to search across all markdown files and notebooks.
 
