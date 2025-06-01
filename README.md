@@ -7,3 +7,5 @@ Demo notes and tests as we develop a pkm extension for jupyterlite
 nb. Notes save in your browser cache. 
 
 Work in progress.
+
+jun 1, backlinks should now work properly in the extension.
