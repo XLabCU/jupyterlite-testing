@@ -9,3 +9,4 @@ nb. Notes save in your browser cache.
 Work in progress.
 
 jun 1, backlinks should now work properly in the extension.
+jun 2, ipynb code, output, markdown can be embedded by cell # in .md files.
