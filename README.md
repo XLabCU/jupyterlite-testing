@@ -10,3 +10,4 @@ Work in progress.
 
 jun 1, backlinks should now work properly in the extension.
 jun 2, ipynb code, output, markdown can be embedded by cell # in .md files.
+Jun 3 teaching materials are merely demo place-holders; use in an actual class might follow this approach or might try something different.
