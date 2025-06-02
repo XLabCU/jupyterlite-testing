@@ -4,13 +4,13 @@ Welcome! You've just created your first file by clicking a wikilink. This is exa
 
 ## What Just Happened?
 
-When you clicked the red link [[getting-started-tutorial]] from the start page, this system:
+When you clicked the red link [[questions-I-have-about-dh]] from the start page, this system:
 
 1. **Detected a broken link** (shown in red)
 2. **Created a new file** when you clicked it  
 3. **Established a connection** between the start page and this tutorial
 
-This is **non-linear thinking** in action - the foundation of both digital humanities methodology and personal knowledge management.
+This is **non-linear thinking** in action - the foundation of both digital humanities methodology and personal knowledge management. (And note that the link on _this_ page, now that you created that particular note, is blue showing that the page exists.)
 
 ## Your Digital Workspace
 

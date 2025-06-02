@@ -95,6 +95,8 @@ Beyond simple links, you can embed content from other files:
 - `![[notebook.ipynb#cell:5:code]]` - Just the code
 - `![[notebook.ipynb#cell:5:output]]` - Just the results
 
+If you're not sure which cell you want, open the ipynb file then select 'View' -> 'Activate Command Palette'. These are all the other commands available. Ones that are specific to our personal knowledge management are marked 'PKM'. Select the PKM: Show Notebook Cell Overview to see at a glance which cells contain what.
+
 ## Organizing Your Workspace
 
 ### File Naming Conventions
