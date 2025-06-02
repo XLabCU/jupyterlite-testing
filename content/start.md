@@ -21,7 +21,7 @@ You're looking at a **markdown file** - a simple way to format text that's widel
 ### Step 2: Your First Wikilink
 Digital humanists often work with interconnected ideas. We use **wikilinks** to connect related concepts:
 
-Try clicking this link: [[getting-started-tutorial]]
+Try clicking this link: [[questions-I-have-about-dh]]
 
 Notice it's red because the file doesn't exist yet. In PKM systems, clicking broken links creates new files - this is how knowledge networks grow organically.
 
