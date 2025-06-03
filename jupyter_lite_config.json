@@ -1,0 +1,9 @@
+{
+  "LiteBuildConfig": {
+    "JupyterArchive": {
+      "stream_max_buffer_size": 104857600,
+      "handler_max_buffer_length": 10240,
+      "archive_download_flush_delay": 100
+    }
+  }
+}
