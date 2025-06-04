@@ -1,6 +1,8 @@
 # Jupyterlite PKM Testing
 
-Demo notes and tests as we develop a pkm extension for jupyterlite
+Demo notes and tests as we develop a pkm extension for jupyterlite. 
+
+**USE CHROME OR EDGE** (Firefox and Safari _will_ work for the most part, but there are some bundled extensions like 'access file system' that only work with chrome/edge. And you need them in order to load csv etc into notebooks for analaysis.
 
 [Give it a whirl here](https://XLabCU.github.io/jupyterlite-testing)
 
