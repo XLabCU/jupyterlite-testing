@@ -4,6 +4,10 @@
 
 Welcome to our introduction to digital humanities! This interactive environment combines the power of computational notebooks with personal knowledge management (PKM) techniques. Think of this as your "digital lab notebook" where you'll learn to connect ideas, build knowledge networks, and use computational tools for humanities research.
 
+```alert
+You need to use the Google CHROME or Microsoft EDGE browsers for all of the functions of this site to work properly. Firefox users will encounter problems with loading and saving data from .ipynb files.
+```
+
 ## 🎯 What You'll Learn Here
 
 - **Knowledge networking**: How to connect ideas across time and disciplines
